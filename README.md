@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/sahil-prajapat-7b574119b/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="sahil-prajapat-7b574119b" height="36" width="40" /></a>
 <a href="https://www.instagram.com/sahil_prajapat__/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="sahil_prajapat__" height="36" width="40" /></a>
 <a href="https://www.facebook.com/sahilparjapat007/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="sahilparjapat007" height="36" width="40" /></a>
-<a href="https://www.codechef.com/users/sahil_021" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sahil_021" height="36" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/sahil_021" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sahil_021" height="36" width="40" /></a> -->
 <a href="https://leetcode.com/SahilPrajapat/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="SahilPrajapat" height="36" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sparjapat005/profile" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="SahilPrajapat" height="36" width="40" /></a>
 <a href="https://www.hackerrank.com/sparjapat005" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="SahilPrajapat" height="36" width="40" /></a>
